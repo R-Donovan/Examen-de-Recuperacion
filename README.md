@@ -13,9 +13,11 @@ El Capítulo 2 del libro aborda los tipos de datos y las sentencias de alto nive
 modos de direccionamiento del procesador ARM, que son utilizados para acceder a la memoria. Luego, se explican los diferentes tipos de
 datos que se pueden utilizar en programación, como enteros, caracteres y punteros.
 
-El capítulo también cubre las instrucciones de salto, que permiten controlar el flujo de ejecución de un programa. Se presentan ejemplos de estructuras de control de alto nivel, como el condicional if-else y los bucles for y while.
+El capítulo también cubre las instrucciones de salto, que permiten controlar el flujo de ejecución de un programa. 
+Se presentan ejemplos de estructuras de control de alto nivel, como el condicional if-else y los bucles for y while.
 
-Además, se muestra cómo se puede compilar código de alto nivel a ensamblador, lo que permite entender cómo se traducen las instrucciones de programación a instrucciones de bajo nivel que el procesador puede ejecutar.
+Además, se muestra cómo se puede compilar código de alto nivel a ensamblador, lo que permite entender cómo se 
+traducen las instrucciones de programación a instrucciones de bajo nivel que el procesador puede ejecutar.
 
   <p align=center>
 Capitulo 3
