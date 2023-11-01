@@ -55,4 +55,11 @@ En resumen, el Capítulo 4 se centra en la programación a bajo nivel, mostrando
 periféricos de un sistema informático sin utilizar el sistema operativo. Se explican los conceptos básicos y se proporcionan 
 ejemplos prácticos para que el lector pueda aplicarlos en sus propios proyectos.
 
+  <p aligin= center>
+    Capitulo 5
+    <p align=left>
+En el capítulo 5, se explora el papel del microprocesador en un entorno que incluye otros componentes. Se destaca que la forma 
+común de comunicación entre estos componentes y el microprocesador es a través de las interrupciones. Las interrupciones son 
+solicitudes que se envían a la CPU para que detenga temporalmente su tarea actual y ejecute una rutina específica. 
+En resumen, las interrupciones son una forma esencial de interacción entre los componentes y el microprocesador.
 </pre>
